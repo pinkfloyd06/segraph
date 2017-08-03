@@ -3,6 +3,7 @@
 [![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](http://www.gnu.org/licenses/gpl-3.0)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/alivcor/segraph)
 [![dependencies Status](https://david-dm.org/boennemann/badges/status.svg)](https://github.com/alivcor/segraph)
+[![Build Status](https://travis-ci.org/alivcor/segraph.svg?branch=master)](https://travis-ci.org/alivcor/segraph)
 
 <p align="center">
 <img src="logo.png"/>
