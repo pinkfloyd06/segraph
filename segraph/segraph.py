@@ -43,7 +43,7 @@ def create_graph(grid):
 
         # reverse map and form edges as pairs
         edges = [[vertices[edge % num_vertices],
-                  vertices[edge / num_vertices]] for edge in edges]
+                  vertices[edge // num_vertices]] for edge in edges]
     except:
         print("Invalid argument supplied !")
         return None
